@@ -1,0 +1,24 @@
+Akt molecules			C17
+PIP2 molecules			C13
+PDK1 molecules			C15
+EGFR molecules			C2
+EGF-EGFR binding		k1
+EGF dissociation		kn1
+EGFR dimerization		k2
+EGFR undimerization		kn2
+EGFR phosphorylation		kp
+EGFR dephosphorylation		kdp
+EGFR degradation		kdeg
+EGFR degradation*		kdegs
+EGFR internalization		ki
+EGFR internalization*		kis
+EGFR recycling			krec
+EGFR recycling*			krecs
+Activation of PIP2		k3
+Dephosphorylation of PIP3	kn3
+PDK1-PIP3 binding		k4
+PDK1-PIP3 unbinding		kn4
+PDK1-PIP3-Akt binding		k5
+PDK1-PIP3-Akt unbinding		kn5
+Akt phosphorylation		k6
+Akt dephosphorylation		kn6
